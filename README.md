@@ -16,4 +16,5 @@ DAX Measures and Calculated Columns
 Dynamic visuals and interactive reports
 Storytelling with sports data
 
-Screenshots: (https://github.com/Sohailpawaskar89/IPL-Team-Performance-Analysis/blob/main/IPL%20Winning%20Match%20Analysis.PNG)
+# Screenshots: 
+IPL-Team-Performance-Analysis/IPL Winning Match Analysis.PNG at main • Sohailpawaskar89/IPL-Team-Performance-Analysis
