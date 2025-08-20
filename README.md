@@ -15,3 +15,5 @@ The project’s purpose is to analyze Indian Premier League (IPL) match data to 
 DAX Measures and Calculated Columns
 Dynamic visuals and interactive reports
 Storytelling with sports data
+
+Screenshots: (https://github.com/Sohailpawaskar89/IPL-Team-Performance-Analysis/blob/main/IPL%20Winning%20Match%20Analysis.PNG)
