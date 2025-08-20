@@ -17,4 +17,4 @@ Dynamic visuals and interactive reports
 Storytelling with sports data
 
 # Screenshots: 
-IPL-Team-Performance-Analysis/IPL Winning Match Analysis.PNG at main • Sohailpawaskar89/IPL-Team-Performance-Analysis
+(IPL-Team-Performance-Analysis/IPL Winning Match Analysis.PNG at main • Sohailpawaskar89/IPL-Team-Performance-Analysis)
