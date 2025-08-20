@@ -1,4 +1,4 @@
-# Porject Title: IPL Analysis Dashboard – Performance & Insights
+# Project Title: IPL Analysis Dashboard – Performance & Insights
 A Dynamic, interactive data visualization dashboard to explore IPL matches analysis and team performances across all seasons played in India.
 
 # Short Description/ Purpose:
